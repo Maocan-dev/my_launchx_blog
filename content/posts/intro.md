@@ -8,8 +8,11 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 Para mi la cutura de un profesional del software se basa en lo siguiente:
 
 -Honestidad
+
 -Confianza
+
 -Respeto
+
 -Perseverancia
 
 Una persona que tenga valores es muy importante.
